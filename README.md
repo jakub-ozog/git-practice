@@ -2,4 +2,4 @@
 
 Git w praktyce
 
-To jest zmiana
+To jest zmiana w development2
